@@ -2,6 +2,19 @@
   "version": 2,
   "ports": [
     {
+      "connectorId": "JSON2",
+      "connectorType": "JSON",
+      "nodes": [
+        {
+          "posX": 286,
+          "posY": 112,
+          "width": 320
+        }
+      ],
+      "connections": [
+      ]
+    },
+    {
       "connectorId": "JSON1",
       "connectorType": "JSON",
       "nodes": [
@@ -15,12 +28,13 @@
       ]
     },
     {
-      "connectorId": "JSON2",
-      "connectorType": "JSON",
+      "connectorId": "EmailReceive1",
+      "connectorType": "EmailReceiveV2",
       "nodes": [
         {
-          "posX": 180,
-          "posY": 312,
+          "style": "sender",
+          "posX": -347,
+          "posY": 77,
           "width": 320
         }
       ],
