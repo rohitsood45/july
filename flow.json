@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "ports": [
+    {
+      "connectorId": "JSON3",
+      "connectorType": "JSON",
+      "nodes": [
+        {
+          "posX": 776,
+          "posY": 281,
+          "width": 295
+        }
+      ],
+      "connections": [
+      ]
+    }
+  ],
+  "views": [
+    {
+      "name": "Default",
+      "zoom": 1,
+      "zoomOrigin": "50% 50%",
+      "posX": 0,
+      "posY": 0,
+      "snapshot": ""
+    }
+  ],
+  "apis": [
+  ],
+  "notes": [
+  ],
+  "snapshot": {
+    "file": "file:\/\/flow.png"
+  }
+}
