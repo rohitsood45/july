@@ -19,9 +19,9 @@
       "connectorType": "JSON",
       "nodes": [
         {
-          "posX": 405,
-          "posY": 315,
-          "width": 295
+          "posX": 180,
+          "posY": 312,
+          "width": 320
         }
       ],
       "connections": [
