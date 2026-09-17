@@ -2,6 +2,19 @@
   "version": 2,
   "ports": [
     {
+      "connectorId": "AI1",
+      "connectorType": "AI",
+      "nodes": [
+        {
+          "posX": 597.798614763698,
+          "posY": 614.062866266042,
+          "width": 295
+        }
+      ],
+      "connections": [
+      ]
+    },
+    {
       "connectorId": "JSON2",
       "connectorType": "JSON",
       "nodes": [
